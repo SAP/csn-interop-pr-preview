@@ -5,18 +5,6 @@
   "title": "API Document",
   "type": "object",
   "definitions": {
-    "@API.element.successor": {
-      "description": "Defines the name of a released successor element/association which replaces an element/association with release state #DEPRECATED or #DECOMMISSIONED.",
-      "x-ref-to-doc": {
-        "title": "Element Reference",
-        "ref": "#/definitions/ElementReference"
-      },
-      "x-extension-targets": [
-        "Type"
-      ],
-      "title": "@API.element.successor",
-      "$ref": "#/definitions/ElementReference"
-    },
     "@API.element.decommissioningPlannedForYearMonth": {
       "description": "The annotation describes the planned decommissioning date of the annotated element. Use ISO format for YearMonth: YYYY-MM (e.g. 2024-08)",
       "type": "string",
@@ -24,22 +12,6 @@
         "Type"
       ],
       "title": "@API.element.decommissioningPlannedForYearMonth"
-    },
-    "@API.entity.successor": {
-      "description": "Defines the name of a released successor entity which replaces an entity with release state #DEPRECATED or #DECOMMISSIONED.",
-      "type": "string",
-      "x-extension-targets": [
-        "Entity"
-      ],
-      "title": "@API.entity.successor"
-    },
-    "@API.entity.decommissioningPlannedForYearMonth": {
-      "description": "The annotation describes the planned decommissioning date of the annotated entity. Use ISO format for YearMonth: YYYY-MM (e.g. 2024-08)",
-      "type": "string",
-      "x-extension-targets": [
-        "Entity"
-      ],
-      "title": "@API.entity.decommissioningPlannedForYearMonth"
     },
     "@API.element.releaseState": {
       "type": "object",
@@ -65,6 +37,26 @@
       ],
       "title": "@API.element.releaseState"
     },
+    "@API.element.successor": {
+      "description": "Defines the name of a released successor element/association which replaces an element/association with release state #DEPRECATED or #DECOMMISSIONED.",
+      "x-ref-to-doc": {
+        "title": "Element Reference",
+        "ref": "#/definitions/ElementReference"
+      },
+      "x-extension-targets": [
+        "Type"
+      ],
+      "title": "@API.element.successor",
+      "$ref": "#/definitions/ElementReference"
+    },
+    "@API.entity.decommissioningPlannedForYearMonth": {
+      "description": "The annotation describes the planned decommissioning date of the annotated entity. Use ISO format for YearMonth: YYYY-MM (e.g. 2024-08)",
+      "type": "string",
+      "x-extension-targets": [
+        "Entity"
+      ],
+      "title": "@API.entity.decommissioningPlannedForYearMonth"
+    },
     "@API.entity.releaseState": {
       "type": "object",
       "description": "The annotation describes the release state of the annotated entity.",
@@ -88,6 +80,14 @@
         "Entity"
       ],
       "title": "@API.entity.releaseState"
+    },
+    "@API.entity.successor": {
+      "description": "Defines the name of a released successor entity which replaces an entity with release state #DEPRECATED or #DECOMMISSIONED.",
+      "type": "string",
+      "x-extension-targets": [
+        "Entity"
+      ],
+      "title": "@API.entity.successor"
     }
   }
 }
