@@ -20,7 +20,7 @@
     "@Consumption.hidden": {
       "type": "boolean",
       "default": true,
-      "description": "The field shall be ignored by consumers.",
+      "description": "The annotated element shall be ignored by consumers.",
       "x-extension-targets": [
         "Type"
       ],
