@@ -16,7 +16,7 @@
     },
     "@DataIntegration.dataProduct.customDataProvider.partialKeyDefinition": {
       "type": "array",
-      "description": "Defines subset of key fields of the CDS entity used for DELETE operation during delta replication.\n\n**Consistency Constraints:**\n- Must be used together with `@DataIntegration.dataProduct.customDataProvider.implementedBy` annotation.\n- Fields defined in the annotation must be key fields of the CDS entity.",
+      "description": "Defines subset of key fields of the CDS entity used for DELETE operation during delta replication.\n\n**Consistency Constraints:**\n- Fields defined in the annotation must be key fields of the CDS entity.",
       "items": {
         "x-ref-to-doc": {
           "title": "Element Reference",
