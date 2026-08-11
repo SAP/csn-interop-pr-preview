@@ -1,0 +1,40 @@
+{
+  "description": "This is the interface description of @DataIntegration.",
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "https://sap.github.io/csn-interop-specification/spec-v1/dataintegration.schema.json#",
+  "title": "DataIntegration Document",
+  "type": "object",
+  "definitions": {
+    "@DataIntegration.dataUnavailable": {
+      "type": "boolean",
+      "description": "Specifies that the data of the element or entity is unavailable although it is part of the output structure.",
+      "x-extension-targets": [
+        "Type",
+        "Entity"
+      ],
+      "title": "@DataIntegration.dataUnavailable"
+    },
+    "@DataIntegration.dataProduct.customDataProvider.partialKeyDefinition": {
+      "type": "array",
+      "description": "Defines subset of key fields of the CDS entity used for DELETE operation during delta replication.\n\n**Consistency Constraints:**\n- Fields defined in the annotation must be key fields of the CDS entity.",
+      "items": {
+        "x-ref-to-doc": {
+          "title": "Element Reference",
+          "ref": "#/definitions/ElementReference"
+        }
+      },
+      "minItems": 1,
+      "x-extension-targets": [
+        "Entity"
+      ],
+      "examples": [
+        [
+          "AirlineCode",
+          "FlightConnectionNumber",
+          "FlightDate"
+        ]
+      ],
+      "title": "@DataIntegration.dataProduct.customDataProvider.partialKeyDefinition"
+    }
+  }
+}
