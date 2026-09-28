@@ -1,3 +1,5 @@
+@import "@open-resource-discovery/ui-components/styles";
+
 /**
  * Any CSS included here will be global. The classic template
  * bundles Infima by default. Infima is a CSS framework designed to
@@ -20,7 +22,7 @@
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.1);
 }
 
-[data-theme='dark'] {
+[data-theme="dark"] {
   --ifm-color-primary: #4d9fff;
   --ifm-color-primary-dark: #3391ff;
   --ifm-color-primary-darker: #2489ff;
@@ -42,10 +44,10 @@
   font: inherit;
   margin-right: 0.35rem;
   padding: 0;
-  transition: transform var(--ifm-transition-fast, 200ms);
+  transition: transform 200ms;
 }
 
-h2[data-collapsed='true'] .section-collapse-toggle {
+h2[data-collapsed="true"] .section-collapse-toggle {
   transform: rotate(-90deg);
 }
 
@@ -73,7 +75,7 @@ h2[data-collapsed='true'] .section-collapse-toggle {
 }
 
 @media (min-width: 997px) {
-  [class*='docMainContainer'] > .container {
+  [class*="docMainContainer"] > .container {
     margin-left: 0;
     margin-right: 0;
     max-width: none;
@@ -81,13 +83,13 @@ h2[data-collapsed='true'] .section-collapse-toggle {
     width: 100%;
   }
 
-  [class*='docItemCol'] {
+  [class*="docItemCol"] {
     min-width: 0;
     padding-left: 0;
     transform: none;
   }
 
-  [class*='docItemContainer'] {
+  [class*="docItemContainer"] {
     min-width: 0;
   }
 }
