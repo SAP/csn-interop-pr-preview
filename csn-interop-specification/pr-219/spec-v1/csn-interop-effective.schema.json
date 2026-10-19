@@ -1115,6 +1115,12 @@
         },
         "@Semantics.systemDate.lastChangedAt": {
           "$ref": "#/definitions/@Semantics.systemDate.lastChangedAt"
+        },
+        "@Semantics.systemDateTime.createdAt": {
+          "$ref": "#/definitions/@Semantics.systemDateTime.createdAt"
+        },
+        "@Semantics.systemDateTime.lastChangedAt": {
+          "$ref": "#/definitions/@Semantics.systemDateTime.lastChangedAt"
         }
       },
       "patternProperties": {
@@ -1357,6 +1363,12 @@
         "@Semantics.systemDate.lastChangedAt": {
           "$ref": "#/definitions/@Semantics.systemDate.lastChangedAt"
         },
+        "@Semantics.systemDateTime.createdAt": {
+          "$ref": "#/definitions/@Semantics.systemDateTime.createdAt"
+        },
+        "@Semantics.systemDateTime.lastChangedAt": {
+          "$ref": "#/definitions/@Semantics.systemDateTime.lastChangedAt"
+        },
         "@Semantics.mimeType": {
           "$ref": "#/definitions/@Semantics.mimeType"
         }
@@ -1596,6 +1608,12 @@
         },
         "@Semantics.systemDate.lastChangedAt": {
           "$ref": "#/definitions/@Semantics.systemDate.lastChangedAt"
+        },
+        "@Semantics.systemDateTime.createdAt": {
+          "$ref": "#/definitions/@Semantics.systemDateTime.createdAt"
+        },
+        "@Semantics.systemDateTime.lastChangedAt": {
+          "$ref": "#/definitions/@Semantics.systemDateTime.lastChangedAt"
         },
         "@Semantics.largeObject.acceptableMimeTypes": {
           "$ref": "#/definitions/@Semantics.largeObject.acceptableMimeTypes"
@@ -1844,6 +1862,12 @@
         },
         "@Semantics.systemDate.lastChangedAt": {
           "$ref": "#/definitions/@Semantics.systemDate.lastChangedAt"
+        },
+        "@Semantics.systemDateTime.createdAt": {
+          "$ref": "#/definitions/@Semantics.systemDateTime.createdAt"
+        },
+        "@Semantics.systemDateTime.lastChangedAt": {
+          "$ref": "#/definitions/@Semantics.systemDateTime.lastChangedAt"
         }
       },
       "patternProperties": {
@@ -2081,6 +2105,12 @@
         },
         "@Semantics.systemDate.lastChangedAt": {
           "$ref": "#/definitions/@Semantics.systemDate.lastChangedAt"
+        },
+        "@Semantics.systemDateTime.createdAt": {
+          "$ref": "#/definitions/@Semantics.systemDateTime.createdAt"
+        },
+        "@Semantics.systemDateTime.lastChangedAt": {
+          "$ref": "#/definitions/@Semantics.systemDateTime.lastChangedAt"
         }
       },
       "patternProperties": {
@@ -2318,6 +2348,12 @@
         },
         "@Semantics.systemDate.lastChangedAt": {
           "$ref": "#/definitions/@Semantics.systemDate.lastChangedAt"
+        },
+        "@Semantics.systemDateTime.createdAt": {
+          "$ref": "#/definitions/@Semantics.systemDateTime.createdAt"
+        },
+        "@Semantics.systemDateTime.lastChangedAt": {
+          "$ref": "#/definitions/@Semantics.systemDateTime.lastChangedAt"
         }
       },
       "patternProperties": {
@@ -2555,6 +2591,12 @@
         },
         "@Semantics.systemDate.lastChangedAt": {
           "$ref": "#/definitions/@Semantics.systemDate.lastChangedAt"
+        },
+        "@Semantics.systemDateTime.createdAt": {
+          "$ref": "#/definitions/@Semantics.systemDateTime.createdAt"
+        },
+        "@Semantics.systemDateTime.lastChangedAt": {
+          "$ref": "#/definitions/@Semantics.systemDateTime.lastChangedAt"
         }
       },
       "patternProperties": {
@@ -2810,6 +2852,12 @@
         },
         "@Semantics.systemDate.lastChangedAt": {
           "$ref": "#/definitions/@Semantics.systemDate.lastChangedAt"
+        },
+        "@Semantics.systemDateTime.createdAt": {
+          "$ref": "#/definitions/@Semantics.systemDateTime.createdAt"
+        },
+        "@Semantics.systemDateTime.lastChangedAt": {
+          "$ref": "#/definitions/@Semantics.systemDateTime.lastChangedAt"
         }
       },
       "patternProperties": {
@@ -3045,6 +3093,12 @@
         },
         "@Semantics.systemDate.lastChangedAt": {
           "$ref": "#/definitions/@Semantics.systemDate.lastChangedAt"
+        },
+        "@Semantics.systemDateTime.createdAt": {
+          "$ref": "#/definitions/@Semantics.systemDateTime.createdAt"
+        },
+        "@Semantics.systemDateTime.lastChangedAt": {
+          "$ref": "#/definitions/@Semantics.systemDateTime.lastChangedAt"
         }
       },
       "patternProperties": {
@@ -3279,6 +3333,12 @@
         },
         "@Semantics.systemDate.lastChangedAt": {
           "$ref": "#/definitions/@Semantics.systemDate.lastChangedAt"
+        },
+        "@Semantics.systemDateTime.createdAt": {
+          "$ref": "#/definitions/@Semantics.systemDateTime.createdAt"
+        },
+        "@Semantics.systemDateTime.lastChangedAt": {
+          "$ref": "#/definitions/@Semantics.systemDateTime.lastChangedAt"
         }
       },
       "patternProperties": {
@@ -3511,6 +3571,12 @@
         },
         "@Semantics.systemDate.lastChangedAt": {
           "$ref": "#/definitions/@Semantics.systemDate.lastChangedAt"
+        },
+        "@Semantics.systemDateTime.createdAt": {
+          "$ref": "#/definitions/@Semantics.systemDateTime.createdAt"
+        },
+        "@Semantics.systemDateTime.lastChangedAt": {
+          "$ref": "#/definitions/@Semantics.systemDateTime.lastChangedAt"
         }
       },
       "patternProperties": {
@@ -3743,6 +3809,12 @@
         },
         "@Semantics.systemDate.lastChangedAt": {
           "$ref": "#/definitions/@Semantics.systemDate.lastChangedAt"
+        },
+        "@Semantics.systemDateTime.createdAt": {
+          "$ref": "#/definitions/@Semantics.systemDateTime.createdAt"
+        },
+        "@Semantics.systemDateTime.lastChangedAt": {
+          "$ref": "#/definitions/@Semantics.systemDateTime.lastChangedAt"
         }
       },
       "patternProperties": {
@@ -3975,6 +4047,12 @@
         },
         "@Semantics.systemDate.lastChangedAt": {
           "$ref": "#/definitions/@Semantics.systemDate.lastChangedAt"
+        },
+        "@Semantics.systemDateTime.createdAt": {
+          "$ref": "#/definitions/@Semantics.systemDateTime.createdAt"
+        },
+        "@Semantics.systemDateTime.lastChangedAt": {
+          "$ref": "#/definitions/@Semantics.systemDateTime.lastChangedAt"
         }
       },
       "patternProperties": {
@@ -4204,6 +4282,12 @@
         },
         "@Semantics.systemDate.lastChangedAt": {
           "$ref": "#/definitions/@Semantics.systemDate.lastChangedAt"
+        },
+        "@Semantics.systemDateTime.createdAt": {
+          "$ref": "#/definitions/@Semantics.systemDateTime.createdAt"
+        },
+        "@Semantics.systemDateTime.lastChangedAt": {
+          "$ref": "#/definitions/@Semantics.systemDateTime.lastChangedAt"
         }
       },
       "patternProperties": {
@@ -4441,6 +4525,12 @@
         },
         "@Semantics.systemDate.lastChangedAt": {
           "$ref": "#/definitions/@Semantics.systemDate.lastChangedAt"
+        },
+        "@Semantics.systemDateTime.createdAt": {
+          "$ref": "#/definitions/@Semantics.systemDateTime.createdAt"
+        },
+        "@Semantics.systemDateTime.lastChangedAt": {
+          "$ref": "#/definitions/@Semantics.systemDateTime.lastChangedAt"
         }
       },
       "patternProperties": {
@@ -4672,6 +4762,12 @@
         },
         "@Semantics.systemDate.lastChangedAt": {
           "$ref": "#/definitions/@Semantics.systemDate.lastChangedAt"
+        },
+        "@Semantics.systemDateTime.createdAt": {
+          "$ref": "#/definitions/@Semantics.systemDateTime.createdAt"
+        },
+        "@Semantics.systemDateTime.lastChangedAt": {
+          "$ref": "#/definitions/@Semantics.systemDateTime.lastChangedAt"
         },
         "@Semantics.largeObject.acceptableMimeTypes": {
           "$ref": "#/definitions/@Semantics.largeObject.acceptableMimeTypes"
@@ -5037,6 +5133,12 @@
         },
         "@Semantics.systemDate.lastChangedAt": {
           "$ref": "#/definitions/@Semantics.systemDate.lastChangedAt"
+        },
+        "@Semantics.systemDateTime.createdAt": {
+          "$ref": "#/definitions/@Semantics.systemDateTime.createdAt"
+        },
+        "@Semantics.systemDateTime.lastChangedAt": {
+          "$ref": "#/definitions/@Semantics.systemDateTime.lastChangedAt"
         }
       },
       "patternProperties": {
@@ -5416,6 +5518,12 @@
         },
         "@Semantics.systemDate.lastChangedAt": {
           "$ref": "#/definitions/@Semantics.systemDate.lastChangedAt"
+        },
+        "@Semantics.systemDateTime.createdAt": {
+          "$ref": "#/definitions/@Semantics.systemDateTime.createdAt"
+        },
+        "@Semantics.systemDateTime.lastChangedAt": {
+          "$ref": "#/definitions/@Semantics.systemDateTime.lastChangedAt"
         }
       },
       "patternProperties": {
@@ -5695,6 +5803,12 @@
         },
         "@Semantics.systemDate.lastChangedAt": {
           "$ref": "#/definitions/@Semantics.systemDate.lastChangedAt"
+        },
+        "@Semantics.systemDateTime.createdAt": {
+          "$ref": "#/definitions/@Semantics.systemDateTime.createdAt"
+        },
+        "@Semantics.systemDateTime.lastChangedAt": {
+          "$ref": "#/definitions/@Semantics.systemDateTime.lastChangedAt"
         }
       },
       "patternProperties": {
@@ -6277,6 +6391,12 @@
         },
         "@Semantics.systemDate.lastChangedAt": {
           "$ref": "#/definitions/@Semantics.systemDate.lastChangedAt"
+        },
+        "@Semantics.systemDateTime.createdAt": {
+          "$ref": "#/definitions/@Semantics.systemDateTime.createdAt"
+        },
+        "@Semantics.systemDateTime.lastChangedAt": {
+          "$ref": "#/definitions/@Semantics.systemDateTime.lastChangedAt"
         }
       },
       "allOf": [
@@ -6792,6 +6912,12 @@
         },
         "@Semantics.systemDate.lastChangedAt": {
           "$ref": "#/definitions/@Semantics.systemDate.lastChangedAt"
+        },
+        "@Semantics.systemDateTime.createdAt": {
+          "$ref": "#/definitions/@Semantics.systemDateTime.createdAt"
+        },
+        "@Semantics.systemDateTime.lastChangedAt": {
+          "$ref": "#/definitions/@Semantics.systemDateTime.lastChangedAt"
         }
       },
       "patternProperties": {
@@ -7036,6 +7162,12 @@
         },
         "@Semantics.systemDate.lastChangedAt": {
           "$ref": "#/definitions/@Semantics.systemDate.lastChangedAt"
+        },
+        "@Semantics.systemDateTime.createdAt": {
+          "$ref": "#/definitions/@Semantics.systemDateTime.createdAt"
+        },
+        "@Semantics.systemDateTime.lastChangedAt": {
+          "$ref": "#/definitions/@Semantics.systemDateTime.lastChangedAt"
         },
         "@Semantics.mimeType": {
           "$ref": "#/definitions/@Semantics.mimeType"
@@ -7283,6 +7415,12 @@
         "@Semantics.systemDate.lastChangedAt": {
           "$ref": "#/definitions/@Semantics.systemDate.lastChangedAt"
         },
+        "@Semantics.systemDateTime.createdAt": {
+          "$ref": "#/definitions/@Semantics.systemDateTime.createdAt"
+        },
+        "@Semantics.systemDateTime.lastChangedAt": {
+          "$ref": "#/definitions/@Semantics.systemDateTime.lastChangedAt"
+        },
         "@Semantics.largeObject.acceptableMimeTypes": {
           "$ref": "#/definitions/@Semantics.largeObject.acceptableMimeTypes"
         },
@@ -7522,6 +7660,12 @@
         },
         "@Semantics.systemDate.lastChangedAt": {
           "$ref": "#/definitions/@Semantics.systemDate.lastChangedAt"
+        },
+        "@Semantics.systemDateTime.createdAt": {
+          "$ref": "#/definitions/@Semantics.systemDateTime.createdAt"
+        },
+        "@Semantics.systemDateTime.lastChangedAt": {
+          "$ref": "#/definitions/@Semantics.systemDateTime.lastChangedAt"
         }
       },
       "patternProperties": {
@@ -7762,6 +7906,12 @@
         },
         "@Semantics.systemDate.lastChangedAt": {
           "$ref": "#/definitions/@Semantics.systemDate.lastChangedAt"
+        },
+        "@Semantics.systemDateTime.createdAt": {
+          "$ref": "#/definitions/@Semantics.systemDateTime.createdAt"
+        },
+        "@Semantics.systemDateTime.lastChangedAt": {
+          "$ref": "#/definitions/@Semantics.systemDateTime.lastChangedAt"
         }
       },
       "patternProperties": {
@@ -7993,6 +8143,12 @@
         },
         "@Semantics.systemDate.lastChangedAt": {
           "$ref": "#/definitions/@Semantics.systemDate.lastChangedAt"
+        },
+        "@Semantics.systemDateTime.createdAt": {
+          "$ref": "#/definitions/@Semantics.systemDateTime.createdAt"
+        },
+        "@Semantics.systemDateTime.lastChangedAt": {
+          "$ref": "#/definitions/@Semantics.systemDateTime.lastChangedAt"
         }
       },
       "patternProperties": {
@@ -8224,6 +8380,12 @@
         },
         "@Semantics.systemDate.lastChangedAt": {
           "$ref": "#/definitions/@Semantics.systemDate.lastChangedAt"
+        },
+        "@Semantics.systemDateTime.createdAt": {
+          "$ref": "#/definitions/@Semantics.systemDateTime.createdAt"
+        },
+        "@Semantics.systemDateTime.lastChangedAt": {
+          "$ref": "#/definitions/@Semantics.systemDateTime.lastChangedAt"
         }
       },
       "patternProperties": {
@@ -8473,6 +8635,12 @@
         },
         "@Semantics.systemDate.lastChangedAt": {
           "$ref": "#/definitions/@Semantics.systemDate.lastChangedAt"
+        },
+        "@Semantics.systemDateTime.createdAt": {
+          "$ref": "#/definitions/@Semantics.systemDateTime.createdAt"
+        },
+        "@Semantics.systemDateTime.lastChangedAt": {
+          "$ref": "#/definitions/@Semantics.systemDateTime.lastChangedAt"
         }
       },
       "patternProperties": {
@@ -8715,6 +8883,12 @@
         },
         "@Semantics.systemDate.lastChangedAt": {
           "$ref": "#/definitions/@Semantics.systemDate.lastChangedAt"
+        },
+        "@Semantics.systemDateTime.createdAt": {
+          "$ref": "#/definitions/@Semantics.systemDateTime.createdAt"
+        },
+        "@Semantics.systemDateTime.lastChangedAt": {
+          "$ref": "#/definitions/@Semantics.systemDateTime.lastChangedAt"
         }
       },
       "patternProperties": {
@@ -8943,6 +9117,12 @@
         },
         "@Semantics.systemDate.lastChangedAt": {
           "$ref": "#/definitions/@Semantics.systemDate.lastChangedAt"
+        },
+        "@Semantics.systemDateTime.createdAt": {
+          "$ref": "#/definitions/@Semantics.systemDateTime.createdAt"
+        },
+        "@Semantics.systemDateTime.lastChangedAt": {
+          "$ref": "#/definitions/@Semantics.systemDateTime.lastChangedAt"
         }
       },
       "patternProperties": {
@@ -9177,6 +9357,12 @@
         },
         "@Semantics.systemDate.lastChangedAt": {
           "$ref": "#/definitions/@Semantics.systemDate.lastChangedAt"
+        },
+        "@Semantics.systemDateTime.createdAt": {
+          "$ref": "#/definitions/@Semantics.systemDateTime.createdAt"
+        },
+        "@Semantics.systemDateTime.lastChangedAt": {
+          "$ref": "#/definitions/@Semantics.systemDateTime.lastChangedAt"
         }
       },
       "patternProperties": {
@@ -9405,6 +9591,12 @@
         },
         "@Semantics.systemDate.lastChangedAt": {
           "$ref": "#/definitions/@Semantics.systemDate.lastChangedAt"
+        },
+        "@Semantics.systemDateTime.createdAt": {
+          "$ref": "#/definitions/@Semantics.systemDateTime.createdAt"
+        },
+        "@Semantics.systemDateTime.lastChangedAt": {
+          "$ref": "#/definitions/@Semantics.systemDateTime.lastChangedAt"
         }
       },
       "patternProperties": {
@@ -9633,6 +9825,12 @@
         },
         "@Semantics.systemDate.lastChangedAt": {
           "$ref": "#/definitions/@Semantics.systemDate.lastChangedAt"
+        },
+        "@Semantics.systemDateTime.createdAt": {
+          "$ref": "#/definitions/@Semantics.systemDateTime.createdAt"
+        },
+        "@Semantics.systemDateTime.lastChangedAt": {
+          "$ref": "#/definitions/@Semantics.systemDateTime.lastChangedAt"
         }
       },
       "patternProperties": {
@@ -9858,6 +10056,12 @@
         },
         "@Semantics.systemDate.lastChangedAt": {
           "$ref": "#/definitions/@Semantics.systemDate.lastChangedAt"
+        },
+        "@Semantics.systemDateTime.createdAt": {
+          "$ref": "#/definitions/@Semantics.systemDateTime.createdAt"
+        },
+        "@Semantics.systemDateTime.lastChangedAt": {
+          "$ref": "#/definitions/@Semantics.systemDateTime.lastChangedAt"
         }
       },
       "patternProperties": {
@@ -10091,6 +10295,12 @@
         },
         "@Semantics.systemDate.lastChangedAt": {
           "$ref": "#/definitions/@Semantics.systemDate.lastChangedAt"
+        },
+        "@Semantics.systemDateTime.createdAt": {
+          "$ref": "#/definitions/@Semantics.systemDateTime.createdAt"
+        },
+        "@Semantics.systemDateTime.lastChangedAt": {
+          "$ref": "#/definitions/@Semantics.systemDateTime.lastChangedAt"
         }
       },
       "patternProperties": {
@@ -10322,6 +10532,12 @@
         },
         "@Semantics.systemDate.lastChangedAt": {
           "$ref": "#/definitions/@Semantics.systemDate.lastChangedAt"
+        },
+        "@Semantics.systemDateTime.createdAt": {
+          "$ref": "#/definitions/@Semantics.systemDateTime.createdAt"
+        },
+        "@Semantics.systemDateTime.lastChangedAt": {
+          "$ref": "#/definitions/@Semantics.systemDateTime.lastChangedAt"
         },
         "@Semantics.largeObject.acceptableMimeTypes": {
           "$ref": "#/definitions/@Semantics.largeObject.acceptableMimeTypes"
@@ -10688,6 +10904,12 @@
         },
         "@Semantics.systemDate.lastChangedAt": {
           "$ref": "#/definitions/@Semantics.systemDate.lastChangedAt"
+        },
+        "@Semantics.systemDateTime.createdAt": {
+          "$ref": "#/definitions/@Semantics.systemDateTime.createdAt"
+        },
+        "@Semantics.systemDateTime.lastChangedAt": {
+          "$ref": "#/definitions/@Semantics.systemDateTime.lastChangedAt"
         }
       },
       "patternProperties": {
@@ -11072,6 +11294,12 @@
         },
         "@Semantics.systemDate.lastChangedAt": {
           "$ref": "#/definitions/@Semantics.systemDate.lastChangedAt"
+        },
+        "@Semantics.systemDateTime.createdAt": {
+          "$ref": "#/definitions/@Semantics.systemDateTime.createdAt"
+        },
+        "@Semantics.systemDateTime.lastChangedAt": {
+          "$ref": "#/definitions/@Semantics.systemDateTime.lastChangedAt"
         }
       },
       "patternProperties": {
@@ -12891,6 +13119,22 @@
       "type": "boolean",
       "const": true,
       "description": "The property contains a date which is the point in time when the record was modified for the last time.",
+      "x-extension-targets": [
+        "Type"
+      ]
+    },
+    "@Semantics.systemDateTime.createdAt": {
+      "type": "boolean",
+      "const": true,
+      "description": "The property contains a timestamp which is the point in time when the record was created for the first time.",
+      "x-extension-targets": [
+        "Type"
+      ]
+    },
+    "@Semantics.systemDateTime.lastChangedAt": {
+      "type": "boolean",
+      "const": true,
+      "description": "The property contains a timestamp which is the point in time when the record was modified for the last time.",
       "x-extension-targets": [
         "Type"
       ]
