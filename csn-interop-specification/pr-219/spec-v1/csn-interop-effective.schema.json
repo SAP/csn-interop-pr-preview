@@ -13105,7 +13105,8 @@
       "description": "The property contains a date which is the key date.",
       "x-extension-targets": [
         "Type"
-      ]
+      ],
+      "x-introduced-in-version": "1.2.7"
     },
     "@Semantics.systemDate.createdAt": {
       "type": "boolean",
@@ -13113,7 +13114,8 @@
       "description": "The property contains a date which is the point in time when the record was created for the first time.",
       "x-extension-targets": [
         "Type"
-      ]
+      ],
+      "x-introduced-in-version": "1.2.7"
     },
     "@Semantics.systemDate.lastChangedAt": {
       "type": "boolean",
@@ -13121,7 +13123,8 @@
       "description": "The property contains a date which is the point in time when the record was modified for the last time.",
       "x-extension-targets": [
         "Type"
-      ]
+      ],
+      "x-introduced-in-version": "1.2.7"
     },
     "@Semantics.systemDateTime.createdAt": {
       "type": "boolean",
@@ -13129,7 +13132,8 @@
       "description": "The property contains a timestamp which is the point in time when the record was created for the first time.",
       "x-extension-targets": [
         "Type"
-      ]
+      ],
+      "x-introduced-in-version": "1.2.7"
     },
     "@Semantics.systemDateTime.lastChangedAt": {
       "type": "boolean",
@@ -13137,7 +13141,8 @@
       "description": "The property contains a timestamp which is the point in time when the record was modified for the last time.",
       "x-extension-targets": [
         "Type"
-      ]
+      ],
+      "x-introduced-in-version": "1.2.7"
     },
     "@Semantics.mimeType": {
       "type": "boolean",
